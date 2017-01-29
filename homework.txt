@@ -1,0 +1,14 @@
+1)Deyisen informasiyaya verilen simvolik addir. Deyisenin adi deyisenin ehate etdiyi informasiyani teqdim edir. Adindan gorunduyu kimi teqdim edilen informasiya deyise biler ancaq emeliyyatlar eyni qalir. Informasiya deyisenlerde saxlanila ve sonradan muraciet oluna biler. Bunun ucun biz deyisenin adindan istifade edirik. Biz proqramlasdirma dilleri vasitesile deyisen yarada biler, sonradan ona her hansi informasiya elave ede biler ve ya olan informasiyani copy ede bilerik. Deyisenin 6 xususiyyeti:
+1.A Name - Deyisenin adi onemlidir cunki adi olmadan onunla elaqe saxlaya bilmerik.
+2.A Type - Deyisenle birge hansi nov datanin saxlanildigini bildirir. Mes: C,Java,Actionscript ve s. dillerde ad yaradilarken deyisenin novu aydin sekilde bildirilmelidir. MatLabda ise deyisenin novu deyisene yuklenen datadan cixarilir.
+3.A Value - zaman kecdikce deyisenin deyeri deyisebiler. Mes: deyisen my_age ve deyeri 19 olsa, sonradan my_age ve deyeri 25 ola biler.
+4.A Scope - Deyisenlerin gorunme derecesini mueyyenlesdirir. Yeni proqramimizin hansi hissesini gore ve istifade ede bilerik.
+5.A Life Time - Deyisenin deyere malik oldugu zamandir. Deyisenin deyeri zamanla deyise biler, lakin deyisenin scope-u itirdiyi zaman hemin deyisenin artiq bir deyeri qalmir.
+6.A Location (in Memory) - Deyisenin komputerde tutdugu adresdir.
+2) En esas data novleri STRING, numbers ve booleans(true or false). Elave olaraq arrays ve objects. Butun proqramlasdirma dilleri mumkun informasiyanin teqdim edilmesinde bu data tiplerinden istifade edir. 
+STRING - Butun xarakterlerden istifade olunur ve "" icinde yazilir.
+Numbers - ededlerden istifade olunur, dirnaqsiz.(tam ve heqiqi ededlerden) 
+Boolean - Meshur riyaziyyatci George Boolenin adindan goturulub. 2 acarsozu var: true or false. Neyinse veziyyetini bilmek ucun yaxsi data novudur.
+Signed ve Unsigned data novleri arasinda ferq:
+Signed deyisenler (-) ve (+) deyerleri store etmeye imkan verir.
+Unsigned deyisenler yalniz 0 ve (+) deyerleri store edir.
